@@ -1,0 +1,3 @@
+[submodule "firmware/AuditoryStimulator"]
+	path = firmware/AuditoryStimulator
+	url = https://github.com/janelia-arduino/AuditoryStimulator.git

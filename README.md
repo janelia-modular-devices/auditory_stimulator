@@ -1,4 +1,4 @@
-# auditory_controller
+# auditory_stimulator
 
 Authors:
 
